@@ -1,1 +1,1 @@
-### Research Engineer in Artificial Intelligence in Gradiant
+### Artificial Intelligence Research Engineer at Gradiant
