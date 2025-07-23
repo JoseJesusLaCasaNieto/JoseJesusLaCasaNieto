@@ -7,7 +7,7 @@
 ---
 
 ## 👨‍💻 About Me
-I am an **AI Research Engineer** and **Product Manager** with extensive experience in developing and deploying **multimodal AI solutions**. My work focuses on defining market guidelines for cutting‑edge AI products and collaborating with senior teams on video, image, and audio processing models. I also research and build audio‑based models for **replay‑attack detection** in security systems.
+I am an **AI Research Engineer** and **Product Manager** with experience in developing and deploying **multimodal AI solutions**. My work focuses on defining market guidelines for cutting‑edge AI products and collaborating with senior teams on video, image, and audio processing models. I also research and build audio‑based models for **replay‑attack detection** in security systems.
 
 Beyond my professional work, I’ve developed a variety of personal projects that showcase my passion and capabilities in AI. You can explore these on my GitHub profile.
 
