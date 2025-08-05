@@ -14,11 +14,11 @@ Beyond my professional work, I’ve developed a variety of personal projects tha
 ---
 
 ## 🔭 Areas of Expertise
-- **Machine Learning & Deep Learning**: including transformers  
-- **Product Strategy**: market guideline definition & coordination with senior teams  
-- **Multimodal Processing**: video, image & audio  
-- **Frameworks**: PyTorch, TensorFlow, Hugging Face Transformers  
-- **Libraries & Tools**: NumPy, Pandas, Matplotlib, OpenCV, scikit‑learn  
+- **Machine Learning & Deep Learning**: including transformers.
+- **Product Strategy**: market guideline definition & coordination with senior teams.
+- **Multimodal Processing**: video, image & audio.
+- **Frameworks**: PyTorch, TensorFlow, Hugging Face Transformers.
+- **Libraries & Tools**: NumPy, Pandas, Matplotlib, OpenCV, scikit‑learn.
 
 ---
 
