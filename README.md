@@ -23,8 +23,22 @@ Beyond my professional work, I’ve developed a variety of personal projects tha
 ---
 
 ## 🎓 Certifications
-- **IBM Certified Product Manager**  
+- **IBM Certified Product Manager - IBM**  
   [View Credential](https://www.linkedin.com/in/jose-jesus-la-casa-nieto/overlay/1748894757366/single-media-viewer/?profileId=ACoAADKIO0oBOXQf8MiYtfscTHDOfXdBbNiZz3k)
+- **PyTorch for Deep Learning Bootcamp - Udemy**
+  [View Credential](https://www.linkedin.com/in/jose-jesus-la-casa-nieto/details/certifications/1764234548069/single-media-viewer/?profileId=ACoAADKIO0oBOXQf8MiYtfscTHDOfXdBbNiZz3k)
+- **Introduction to Docker - DataCamp**
+  [View Credential](https://www.linkedin.com/in/jose-jesus-la-casa-nieto/details/certifications/1762770601896/single-media-viewer/?profileId=ACoAADKIO0oBOXQf8MiYtfscTHDOfXdBbNiZz3k)
+- **Introduction to Data Versioning with DVC - DataCamp**
+  [View Credential](https://www.linkedin.com/in/jose-jesus-la-casa-nieto/details/certifications/1762770529712/single-media-viewer/?profileId=ACoAADKIO0oBOXQf8MiYtfscTHDOfXdBbNiZz3k)
+- **Working with Hugging Face - DataCamp**
+  [View Credential](https://www.linkedin.com/in/jose-jesus-la-casa-nieto/details/certifications/1762770443442/single-media-viewer/?profileId=ACoAADKIO0oBOXQf8MiYtfscTHDOfXdBbNiZz3k)
+- **Computer Vision - Kaggle**
+  [View Credential](https://www.linkedin.com/in/jose-jesus-la-casa-nieto/details/certifications/1764234869944/single-media-viewer/?profileId=ACoAADKIO0oBOXQf8MiYtfscTHDOfXdBbNiZz3k)
+- **Data Visualization - Kaggle**
+  [View Credential](https://www.linkedin.com/in/jose-jesus-la-casa-nieto/details/certifications/1764234826213/single-media-viewer/?profileId=ACoAADKIO0oBOXQf8MiYtfscTHDOfXdBbNiZz3k)
+- **Intro to Game AI and Reinforcement Learning - Kaggle**
+  [View Credential](https://www.linkedin.com/in/jose-jesus-la-casa-nieto/details/certifications/1764234765925/single-media-viewer/?profileId=ACoAADKIO0oBOXQf8MiYtfscTHDOfXdBbNiZz3k)
 
 ---
 
