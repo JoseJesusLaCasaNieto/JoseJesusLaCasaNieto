@@ -18,7 +18,8 @@ Beyond my professional work, I’ve developed a variety of personal projects tha
 - **Product Strategy**: market guideline definition & coordination with senior teams.
 - **Multimodal Processing**: video, image & audio.
 - **Frameworks**: PyTorch, TensorFlow, Hugging Face Transformers.
-- **Libraries & Tools**: NumPy, Pandas, Matplotlib, OpenCV, Scikit‑Learn, Docker, DVC.
+- **Libraries & Tools**: NumPy, Pandas, Matplotlib, OpenCV, Scikit‑Learn.
+- **MLOPS**: Docker, DVC, MLFlow, Git.
 
 ---
 
