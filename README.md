@@ -28,6 +28,8 @@ Beyond my professional work, I’ve developed a variety of personal projects tha
   [View Credential](https://www.linkedin.com/in/jose-jesus-la-casa-nieto/overlay/1748894757366/single-media-viewer/?profileId=ACoAADKIO0oBOXQf8MiYtfscTHDOfXdBbNiZz3k)
 - **PyTorch for Deep Learning Bootcamp - Udemy**
   [View Credential](https://www.linkedin.com/in/jose-jesus-la-casa-nieto/details/certifications/1764234548069/single-media-viewer/?profileId=ACoAADKIO0oBOXQf8MiYtfscTHDOfXdBbNiZz3k)
+- **DVC Tools for Data Scientists & Analysts**
+  [View Credential](https://www.linkedin.com/in/jose-jesus-la-casa-nieto/overlay/1769427668723/single-media-viewer/?profileId=ACoAADKIO0oBOXQf8MiYtfscTHDOfXdBbNiZz3k)
 - **Introduction to Docker - DataCamp**
   [View Credential](https://www.linkedin.com/in/jose-jesus-la-casa-nieto/details/certifications/1762770601896/single-media-viewer/?profileId=ACoAADKIO0oBOXQf8MiYtfscTHDOfXdBbNiZz3k)
 - **Introduction to Data Versioning with DVC - DataCamp**
