@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center">👋 Hi there! I'm José Jesús La Casa Nieto</h1>
 <p align="center">
-  <strong>AI Research Engineer & Product Manager</strong>
+  <strong>AI Research Engineer | Data Scientist | PhD Student</strong>
 </p>
 
 ---
