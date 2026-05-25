@@ -26,6 +26,8 @@ Beyond my professional work, I’ve developed a variety of personal projects tha
 ## 🎓 Certifications
 - **IBM Certified Product Manager - IBM**  
   [View Credential](https://www.linkedin.com/in/jose-jesus-la-casa-nieto/overlay/1748894757366/single-media-viewer/?profileId=ACoAADKIO0oBOXQf8MiYtfscTHDOfXdBbNiZz3k)
+- **Quickstart: LangGraph Essentials Python - LangChain Academy**
+  [View Credential](https://academy.langchain.com/certificates/phy4ptygsv)
 - **PyTorch for Deep Learning Bootcamp - Udemy**
   [View Credential](https://www.linkedin.com/in/jose-jesus-la-casa-nieto/details/certifications/1764234548069/single-media-viewer/?profileId=ACoAADKIO0oBOXQf8MiYtfscTHDOfXdBbNiZz3k)
 - **Ultimate Docker: guía de cero hasta despliegues - Udemy**
